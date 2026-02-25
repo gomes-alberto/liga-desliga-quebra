@@ -19,4 +19,6 @@ Este exercício faz parte do meu processo de aprendizagem em desenvolvimento Fro
 - ⚡ **JavaScript** → Interatividade;
 - 🛠 **Visual Studio Code** → Editor de código utilizado.
 
-### Feito com 💙 por Gomes Alberto
+---
+
+Feito com 💙 por **Gomes Alberto**
